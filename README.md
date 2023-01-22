@@ -1,1 +1,3 @@
 # golang_sqlmock_helper
+
+sqlmockのrowsをモデルの構造体から変換して作成出来る関数
